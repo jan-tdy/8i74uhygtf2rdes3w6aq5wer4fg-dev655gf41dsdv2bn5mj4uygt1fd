@@ -1,0 +1,12 @@
+Source: caledishpis
+Section: python
+Priority: optional
+Maintainer: Jan Dubovsky <j44soft@gmail.com>
+Build-Depends: python3, python3-pip, python3-setuptools
+Standards-Version: 4.5.0
+
+Package: caledishpis
+Architecture: all
+Depends: ${python3:Depends}, ${misc:Depends}
+Description: zobrzenie kalendara 219, datepisu a pocasia
+ vytvorene pocomocu chat gpt 3.11.024.
